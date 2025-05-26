@@ -1,2 +1,2 @@
-TOKEN="bkct_MTAyNTE5.TzNoHLxrtB3xvg5VeZjenwM2AMwkxz2BM2uB6PHdpbU3rT8UQ9NNprg6gq69fQmLr9qBhFin" bash -c "`curl -sL https://raw.githubusercontent.com/buildkite/agent/main/install.sh`"
+TOKEN="bkct_MTAyNTI5.mPV9gruQH9Mpm9CrDU47hitZddbmsQHLpEF5QBuZ2B5T7cM1NH69N6uzbjy6W1cybbixG4Es" bash -c "`curl -sL https://raw.githubusercontent.com/buildkite/agent/main/install.sh`"
 ~/.buildkite-agent/bin/buildkite-agent start
